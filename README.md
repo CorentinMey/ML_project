@@ -1,4 +1,4 @@
-# Scienta_project
+# ML_project
 
 ## Classification of healthy, RA and SLE patients using machine learning on transcriptomics data
 
@@ -34,8 +34,9 @@ Objective: Train an effective classification model for the task of distinguishin
 
 Models used:
 
+    Logistic Regression
     Random Forest
-    Deep Neural Networks
+    Multi-layer Perceptron
 
 Performance Evaluation: Model performance is assessed using accuracy and F1-score on previously unseen test datasets.
 
